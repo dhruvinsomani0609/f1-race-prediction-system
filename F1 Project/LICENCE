@@ -1,0 +1,11 @@
+
+---
+
+### 📦 requirements.txt (example)
+```txt
+fastf1==3.3.6
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn

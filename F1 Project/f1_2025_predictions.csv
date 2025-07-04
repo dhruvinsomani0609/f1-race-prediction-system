@@ -1,0 +1,20 @@
+driver,driver_name,team,win_probability,predicted_position,grid_position,quali_position,predicted_rank
+NOR,Lando Norris,McLaren,0.07,9.97,,1.0,1
+PIA,Oscar Piastri,McLaren,0.07,9.87,,3.0,2
+LEC,Charles Leclerc,Ferrari,0.05,9.32,,2.0,3
+HAM,Lewis Hamilton,Ferrari,0.04,8.87,,4.0,4
+VER,Max Verstappen,Red Bull Racing,0.03,9.3,,7.0,5
+RUS,George Russell,Mercedes,0.02,9.23,,5.0,6
+LAW,Liam Lawson,Racing Bulls,0.0,8.75,,6.0,7
+BOR,Gabriel Bortoleto,Kick Sauber,0.0,8.96,,8.0,8
+GAS,Pierre Gasly,Alpine,0.0,8.48,,10.0,9
+ALO,Fernando Alonso,Aston Martin,0.0,8.41,,11.0,10
+ALB,Alexander Albon,Williams,0.0,9.47,,12.0,11
+BEA,Oliver Bearman,Haas F1 Team,0.0,8.28,,15.0,12
+STR,Lance Stroll,Aston Martin,0.0,8.84,,16.0,13
+OCO,Esteban Ocon,Haas F1 Team,0.0,8.56,,17.0,14
+TSU,Yuki Tsunoda,Red Bull Racing,0.0,9.41,,18.0,15
+SAI,Carlos Sainz,Williams,0.0,9.58,,19.0,16
+HUL,Nico Hulkenberg,Kick Sauber,0.0,9.11,,20.0,17
+DOO,Jack Doohan,Alpine,0.0,17.75,14.0,14.0,18
+ANT,Andrea Kimi Antonelli,Mercedes,0.0,4.0,16.0,16.0,19
